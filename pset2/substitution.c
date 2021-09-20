@@ -1,4 +1,4 @@
-# Introduction to cryptography - scrambling an input from the user, given a key, that contains all 26 characters in the alphabet
+// Introduction to cryptography - scrambling an input from the user, given a key, that contains all 26 characters in the alphabet
 
 #include <ctype.h> // library for checking data types
 #include <cs50.h>
